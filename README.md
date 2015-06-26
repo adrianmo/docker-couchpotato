@@ -1,4 +1,4 @@
-# docker-rpi-couchpotato
+# docker-couchpotato
 
 [Docker image](https://registry.hub.docker.com/u/adrianmo/couchpotato/) for running CouchPotato.
 
